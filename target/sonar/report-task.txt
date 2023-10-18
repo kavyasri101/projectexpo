@@ -1,6 +1,6 @@
-projectKey=kavya
+projectKey=mks
 serverUrl=http://localhost:9099
-serverVersion=10.1.0.73491
-dashboardUrl=http://localhost:9099/dashboard?id=kavya
-ceTaskId=AYsT_IG_EJZtiQh9jHvI
-ceTaskUrl=http://localhost:9099/api/ce/task?id=AYsT_IG_EJZtiQh9jHvI
+serverVersion=10.2.1.78527
+dashboardUrl=http://localhost:9099/dashboard?id=mks
+ceTaskId=AYsz_xJn5Uch4S3NV4IR
+ceTaskUrl=http://localhost:9099/api/ce/task?id=AYsz_xJn5Uch4S3NV4IR
